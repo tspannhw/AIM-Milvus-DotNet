@@ -1,2 +1,2 @@
-# AIM-Milvus-C-
+# AIM-Milvus-DotNet
 Milvus - C# - .NET
